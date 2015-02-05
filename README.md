@@ -2,6 +2,7 @@
 Our secret sauce. Studies suggest that there is 5x improvement in productivity if the incoming person is onboarded correctly. This onboarding focuses on the following:
 
 * Exposure to all platforms
+* Artoo approach to debugging & learning - tasks, source code, blogs, videos
 * Deep dive into the product - Data Model, Client Delivery
 * Field Visits
 
