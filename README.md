@@ -21,5 +21,8 @@ Our secret sauce. Studies suggest that there is 5x improvement in productivity i
 | 14-20 | Client Delivery  |                                       |
 
 ## Next Steps
-This is a living repository of information. Please link resources to this and detail out
-a rough action plan as well as test plan for the newbie.
+This is a living repository of information. Please link resources to this and detail out a rough action plan as well as test plan for the newbie.
+
+## Mentors
+* There will be one mentor through the program
+* There will be one additional mentor for each of the sections
