@@ -6,3 +6,7 @@
 * 2 Android 3rd party libraries
 * Google Android MOOC
 * Robolectric
+
+## References
+* <android library links>
+* <interesting people to follow>
