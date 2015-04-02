@@ -2,6 +2,11 @@
 ======
 
 ## Folder Structure
+* /mnt/
+* /dev/
+* /root/
+* /usr/bin
+* /tmp
 * /etc or /usr/local/etc
 * /var/log or /usr/local/var/log
 * /var/lib or /usr/local/var/lib
@@ -15,5 +20,7 @@
 * kill
 
 
+
 ## Quick References
-[Basics](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
+[Basic Understanding ](http://bash.cyberciti.biz/guide/Main_Page)
+[Quick Commands](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
