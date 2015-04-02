@@ -37,6 +37,8 @@ git commit -m ""
 git commit -am ""
 ```
 
+Push code to remote repo. Use SSH and not HTTPS - https://help.github.com/articles/generating-ssh-keys/
+
 ## Handling conflicts
 
 ```
