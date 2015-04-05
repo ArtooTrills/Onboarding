@@ -12,6 +12,7 @@
   * /var/lib or /usr/local/var/lib
 
 ## Common Commands
+* curl
 * grep
 * awk
 * sed
