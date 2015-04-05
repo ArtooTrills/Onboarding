@@ -8,7 +8,7 @@
 
 * Create an account with your @artoo.in email id
 * https://help.github.com/articles/set-up-git/
-* Create a public respository called Onboarding as a public repository.
+* Create a public respository called `Onboarding` under your username.
 
 ## Developer Workflow on Github
 
@@ -64,7 +64,7 @@ git reset --hard
 
 ## Rewriting History
 
-Create a folder Gitflicts in your Onboarding repository. Create two files (Artoo.md and Me.md) and make an commit. Now add a few lines to the two files and commit them. Make changes in both files in every commit. Make atleast 3 commits. Now rewrite the git history so that first all 3 commits to Artoo.md come and then Me.md.
+Create a folder `Gitflicts` in your Onboarding repository. Create two files (Artoo.md and Me.md) and make an commit. Now add a few lines to the two files and commit them. Make changes in both files in every commit. Make atleast 3 commits. Now rewrite the git history so that first all 3 commits to Artoo.md come and then Me.md.
 
 ## Tagged releases
 
