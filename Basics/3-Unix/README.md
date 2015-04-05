@@ -1,5 +1,4 @@
 # Unix
-======
 
 ## Folder Structure
 * Where do you find what?
