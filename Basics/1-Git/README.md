@@ -38,6 +38,12 @@ git commit -am ""
 
 Push code to remote repo. Use SSH and not HTTPS - https://help.github.com/articles/generating-ssh-keys/
 
+## Ignore or Not
+
+* .gitignore
+* .gitkeep
+* Sometimes when we work, we create extra temp files. Try that: create dummy files using `touch` in a git repo. Now do `git status` and see the new files that need to be indexed. Instead of using `rm -rf`, use a git command to removing all these files.
+
 ## Remote
 ```
 git remote -v
