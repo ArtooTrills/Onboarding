@@ -10,7 +10,8 @@
 	* Differences between docs, local docs, and _design/docs?
 
 ## Views
-	* How does Map, Reduce really work?
+	* [What is Map Reduce](http://stevekrenzel.com/finding-friends-with-mapreduce)
+	* How does Map, Reduce really work in CouchDB?
 	* Key structure
 	* View Options
 		* Local Sequence
