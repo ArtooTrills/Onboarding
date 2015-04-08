@@ -50,8 +50,8 @@
 ### Notes
 * All data is to be created programmatically
 * Don't use any external libraries in the initial phase
-* Make use of Object Oriented style of Programming - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
-* Write the code in sublime text
-* Run this in the Browser Console
+* Make use of Object Oriented style of Programming - [Introduction to Object-Oriented JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+* Write the code in Sublime Text
+* Run this in the Chrome Console
 * Make this is a simple node project which can be run from the command line - save output in a file
 
