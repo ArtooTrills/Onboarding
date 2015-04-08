@@ -47,7 +47,7 @@
 * All branches need to have atleast one user assigned. Each branch should not have more than 
 * Find all users who are assigned the same branch with area same as their home_address area
 
-### Notes for task
+### Notes
 * All data is to be created programmatically
 * Don't use any external libraries in the initial phase
 * Make use of Object Oriented style of Programming - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
