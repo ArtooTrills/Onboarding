@@ -1,4 +1,4 @@
-Follow these tutorial: 
+Follow these tutorials: 
 
 -  [Learn regular expressions in about 55 minutes](http://qntm.org/files/re/re.html)
 - http://regex.learncodethehardway.org/book/
