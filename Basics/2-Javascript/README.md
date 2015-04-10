@@ -42,8 +42,10 @@
 * Create an array of 30 branchesIds - [b1, b2, b3 and so on...]
 * Similar to Array of user objects, create Array of branch objects with name and address.
 * Keep the city same for 3 consecutive branches - city 1 has [branch1 in area1, branch2 in area2, branch3 in area3]
-* Randomly assign some some username and some branchId to each user - but contained within the same city
+* Assign some some username and randomly some branchId to each user - but contained within the same city
+  * Every user should get one branch, every branch should get atleast one user
 * Find all users who are less than 30 years of age - print these usernames.
+  * User Javascript Data Object to start with. In the 2nd iteration use [moment.js](http://momentjs.com/)
 * All branches need to have atleast one user assigned. Each branch should not have more than 
 * Find all users who are assigned the same branch with area same as their home_address area
 
