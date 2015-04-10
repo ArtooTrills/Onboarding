@@ -1,8 +1,8 @@
 Follow these tutorial: 
 
--  http://qntm.org/files/re/re.html
+-  (Learn regular expressions in about 55 minutes)[http://qntm.org/files/re/re.html]
 - http://regex.learncodethehardway.org/book/
-- https://www.youtube.com/watch?v=EkluES9Rvak&feature=youtu.be&t=31m45s
+- (Demystifying Regular Expressions)[https://www.youtube.com/watch?v=EkluES9Rvak&feature=youtu.be&t=31m45s]
 
 
 Practise using JavaScript and Chrome Console 
