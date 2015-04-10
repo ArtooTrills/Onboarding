@@ -46,8 +46,30 @@
   * Every user should get one branch, every branch should get atleast one user
 * Find all users who are less than 30 years of age - print these usernames.
   * User Javascript Data Object to start with. In the 2nd iteration use [moment.js](http://momentjs.com/)
-* All branches need to have atleast one user assigned. Each branch should not have more than 
-* Find all users who are assigned the same branch with area same as their home_address area
+* Flip the object Model - Print all cities and all the branches in each city and users in each branch
+```
+Example
+[
+  {
+    city: city1,
+    branches: [
+     {
+      branch: b1,
+      users: [u1, u2, u3]
+     },
+     {
+      branch: b2,
+      users: [u5, u6, u7]
+     }
+    ]
+  },
+  {
+   city: city2,
+   branches: [....]
+   and so on....
+  }
+]
+```
 
 ### Notes
 * All data is to be created programmatically
