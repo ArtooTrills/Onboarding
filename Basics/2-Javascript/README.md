@@ -85,5 +85,5 @@ Example
 ### jQuery Basics
 * Go to ```gl.artoo.in/login```
   * Populate the username and password using jQuery
-  * Print out a table of all the tags and their counts in the HTML page e.g. <meta> = 1
+  * Print out a table of all the tags and their counts in the HTML page e.g. ```<meta> = 1```
 
