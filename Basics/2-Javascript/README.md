@@ -11,6 +11,8 @@
   * Difference between generic $.ajax and $.get and $.post
 
 ## Practice Task
+
+### JavaScript Basics
 * Create an array of 100 usernames - [user1, user2, user3 and so on...]
 * Create an array of 100 user objects
 
@@ -71,7 +73,7 @@ Example
 ]
 ```
 
-### Notes
+#### Notes
 * All data is to be created programmatically
 * Don't use any external libraries in the initial phase
 * Make use of OOP style - [Introduction to Object-Oriented JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
@@ -79,4 +81,9 @@ Example
 * Run this in the Chrome Browser Console
 * Make this is a simple Node.js project which can be run from the command line
 * Save the data and output in different files
+
+### jQuery Basics
+* Go to ```gl.artoo.in/login```
+  * Populate the username and password using jQuery
+  * Print out a table of all the tags and their counts in the HTML page e.g. <meta> = 1
 
