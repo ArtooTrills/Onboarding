@@ -82,6 +82,9 @@ Example
 * Make this is a simple Node.js project which can be run from the command line
 * Save the data and output in different files
 
+### Prototype
+* Create a class structure for Artoo's team the way you see it. e.g geeks, rainmakers, firefighters, etc and add some fun functions for individuals and teams.
+
 ### jQuery Basics
 * Go to ```gl.artoo.in/login```
   * Populate the username and password using jQuery
