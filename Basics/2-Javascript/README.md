@@ -87,6 +87,6 @@ Example
 
 ### jQuery Basics
 * Go to ```gl.artoo.in/login```
-  * Populate the username and password using jQuery
+  * Populate the username and password using jQuery. If you can do that, then you should be able to login programatically too!
   * Print out a table of all the tags and their counts in the HTML page e.g. ```<meta> = 1```
 
