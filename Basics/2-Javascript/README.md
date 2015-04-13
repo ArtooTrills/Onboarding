@@ -83,7 +83,7 @@ Example
 * Save the data and output in different files
 
 ### Prototype
-* Create a class structure for Artoo's team the way you see it. e.g geeks, rainmakers, firefighters, etc and add some fun functions for individuals and teams.
+* Create class structure and associated instances for Artoo's team the way you see it. e.g geeks, rainmakers, firefighters, etc and add some fun functions for individuals and teams.
 
 ### jQuery Basics
 * Go to ```gl.artoo.in/login```
