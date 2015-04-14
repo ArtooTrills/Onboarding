@@ -37,7 +37,7 @@
     } and so on
   ]
 ```
-* Keep the same city for 4 consecutive users.
+* Keep the same city for 5 consecutive users.
 * Similar to Array of user objects, create Array of 8 branch objects with branch name and address.
 * Each city should have 2 branches - city1 has branch1, branch2. city2 has branch3, branch4 and so on...
 * Assign a branch to every user in their own city
