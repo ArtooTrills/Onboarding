@@ -13,7 +13,7 @@
 ## Practice Task
 
 ### JavaScript Basics
-####Part 1 - Data Generation
+####1 - Data Generation
 
 * Create an array of 20 user objects
 
@@ -42,7 +42,7 @@
 * Each city should have 2 branches - city1 has branch1, branch2. city2 has branch3, branch4 and so on...
 * Assign a branch to every user in their own city
 
-####Computations
+####2 - Computations
 * Find all users who are less than 30 years of age - print these usernames.
   * User Javascript Data Object to start with
   * In the 2nd iteration use [moment.js](http://momentjs.com/)
