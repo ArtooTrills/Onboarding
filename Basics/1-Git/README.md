@@ -3,6 +3,7 @@
 ## Basic Concept
 
 * https://www.atlassian.com/git/tutorials/setting-up-a-repository
+* https://www.codeschool.com/courses/try-git
 
 ## Setting up your Github account
 
