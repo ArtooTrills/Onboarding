@@ -13,8 +13,9 @@
 ## Practice Task
 
 ### JavaScript Basics
-* Create an array of 100 usernames - [user1, user2, user3 and so on...]
-* Create an array of 100 user objects
+####Part 1 - Data Generation
+
+* Create an array of 20 user objects
 
 ```
   users = [
@@ -24,7 +25,6 @@
     address: {
      street: line1
      landmark: line2
-     area: area1
      city: city1
     }
    },{
@@ -33,21 +33,19 @@
     address: {
      street: line3
      landmark: line4
-     area: area2
      city: city1
     } and so on
   ]
 ```
+* Keep the same city for 4 consecutive users.
+* Similar to Array of user objects, create Array of 8 branch objects with branch name and address.
+* Each city should have 2 branches - city1 has branch1, branch2. city2 has branch3, branch4 and so on...
+* Assign a branch to every user in their own city
 
-* Keep the same city for 10 consicutive users.
-* Each city has only 3 areas - area1, area2 or area3 only
-* Create an array of 30 branchesIds - [b1, b2, b3 and so on...]
-* Similar to Array of user objects, create Array of branch objects with name and address.
-* Keep the city same for 3 consecutive branches - city 1 has [branch1 in area1, branch2 in area2, branch3 in area3]
-* Assign some some username and randomly some branchId to each user - but contained within the same city
-  * Every user should get one branch, every branch should get atleast one user
+####Computations
 * Find all users who are less than 30 years of age - print these usernames.
-  * User Javascript Data Object to start with. In the 2nd iteration use [moment.js](http://momentjs.com/)
+  * User Javascript Data Object to start with
+  * In the 2nd iteration use [moment.js](http://momentjs.com/)
 * Flip the object Model - Print all cities and all the branches in each city and users in each branch
 ```
 Example
