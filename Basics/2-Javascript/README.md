@@ -1,14 +1,18 @@
-## Basics
-* Code Academy: http://www.codecademy.com/tracks/javascript
+## Topics
+* JavaScript Basics: [Code Academy](http://www.codecademy.com/tracks/javascript)
+* jQuery Basics: [Code Academy](http://www.codecademy.com/glossary/html#attributes)
+  * DOM selectors
+  * ajax
+  * Difference between generic $.ajax and $.get and $.post
 * Chrome Console
   * Scripts
   * Resources
   * Network
-* Prototype
-* jQuery
-  * DOM selectors
-  * ajax
-  * Difference between generic $.ajax and $.get and $.post
+
+### Further Reading - Will be covered in more detail in the Web Section
+* Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+* Prototypes: Need to find a good link
+* Closures: [Robert Nyman’s Blog - Mozilla](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/)  
 
 ## Practice Task
 
