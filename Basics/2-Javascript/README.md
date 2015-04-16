@@ -1,6 +1,6 @@
 ## Topics
 * JavaScript Basics: [Code Academy](http://www.codecademy.com/tracks/javascript)
-* jQuery Basics: [Code Academy](http://www.codecademy.com/glossary/html#attributes)
+* jQuery Basics: [Code Academy](http://www.codecademy.com/tracks/jquery)
   * DOM selectors
   * ajax
   * Difference between generic $.ajax and $.get and $.post
