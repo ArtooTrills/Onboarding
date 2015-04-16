@@ -1,23 +1,8 @@
-## Topics
-* JavaScript Basics: [Code Academy](http://www.codecademy.com/tracks/javascript)
-* jQuery Basics: [Code Academy](http://www.codecademy.com/tracks/jquery)
-  * DOM selectors
-  * ajax
-  * Difference between generic $.ajax and $.get and $.post
-* Chrome Console
-  * Scripts
-  * Resources
-  * Network
+## Topic 1- JavaScript Basics
+*  [Code Academy](http://www.codecademy.com/tracks/javascript)
 
-### Further Reading - Will be covered in more detail in the Web Section
-* Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
-* Prototypes: Need to find a good link
-* Closures: [Robert Nyman’s Blog - Mozilla](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/)  
-
-## Practice Task
-
-### JavaScript Basics
-####1 - Data Generation
+### Task
+####Part 1 - Data Generation
 
 * Create an array of 20 user objects
 
@@ -46,7 +31,7 @@
 * Each city should have 2 branches - city1 has branch1, branch2. city2 has branch3, branch4 and so on...
 * Assign a branch to every user in their own city
 
-####2 - Computations
+####Part 2 - Computations
 * Find all users who are less than 30 years of age - print these usernames.
   * User Javascript Data Object to start with
   * In the 2nd iteration use [moment.js](http://momentjs.com/)
@@ -78,17 +63,41 @@ Example
 #### Notes
 * All data is to be created programmatically
 * Don't use any external libraries in the initial phase
-* Make use of OOP style - [Introduction to Object-Oriented JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * Write the code in Sublime Text
-* Run this in the Chrome Browser Console
-* Make this is a simple Node.js project which can be run from the command line
+* Run parts of this in the Chrome Browser Console
+* Make this into a simple Node.js project which can be run from the command line
 * Save the data and output in different files
+* In the 1st iteration
+  * Use regular for loops and nothing else
+  * Use Javascript's Date function to work on the age computation
+* Read about [ES5's native Array iterator methods](https://coderwall.com/p/_ggh2w/the-array-native-every-filter-map-some-foreach-methods)
+* In the 2nd iteration
+  * use these functions (filter and map) to get your output
+  * use [moment.js](http://momentjs.com/) instead of Javascript's Date function
 
-### Prototype
-* Create class structure and associated instances for Artoo's team the way you see it. e.g geeks, rainmakers, firefighters, etc and add some fun functions for individuals and teams.
-
-### jQuery Basics
+## Topic 2 - jQuery Basics
+* [Code Academy](http://www.codecademy.com/tracks/jquery)
+  * DOM selectors
+  * ajax
+  * Difference between generic $.ajax and $.get and $.post
+  
+### Task
 * Go to ```gl.artoo.in/login```
   * Populate the username and password using jQuery. If you can do that, then you should be able to login programatically too!
   * Print out a table of all the tags and their counts in the HTML page e.g. ```<meta> = 1```
 
+
+## Topic 3 - Chrome Console
+  * Scripts
+  * Resources
+  * Network
+
+## Advanced Javascript Concepts
+* [Introduction to Object-Oriented JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+* Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+* Prototypes: Need to find a good link
+* Closures: [Robert Nyman’s Blog - Mozilla](http://robertnyman.com/2008/10/09/explaining-javascript-scope-and-closures/)  
+* Some of these will be covered in detail in the Web section of Onboarding
+
+### Task
+* Create class structure and associated instances for Artoo's team the way you see it. e.g geeks, rainmakers, firefighters, etc and add some fun functions for individuals and teams.
