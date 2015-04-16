@@ -92,7 +92,7 @@ Example
   * Resources
   * Network
 
-## Advanced Javascript Concepts
+## Advanced Concepts - Read
 * [Introduction to Object-Oriented JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * Callbacks: http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
 * Prototypes: Need to find a good link
