@@ -1,3 +1,5 @@
+## Reference
+[CouchDB Guides](http://guide.couchdb.org/draft/index.html)
 ## Basics
 	* Key/ Value concept
 	* CAP theorem
