@@ -74,6 +74,7 @@ Example
 * In the 2nd iteration
   * use these functions (filter and map) to get your output
   * use [moment.js](http://momentjs.com/) instead of Javascript's Date function
+  * do not delete your existing code, just comment it
 
 ## Topic 2 - jQuery Basics
 * [Code Academy](http://www.codecademy.com/tracks/jquery)
