@@ -2,7 +2,7 @@
   * Login
   * Create Database
   * Create Table
-  * Source an existing mysql - (Sample Dataset from the MySQL website)[https://launchpad.net/test-db/+download]
+  * Source an existing mysql - [Sample Dataset from the MySQL website](https://launchpad.net/test-db/+download)
   * SELECT table
   * SELECT + WHERE Clause
   * SELECT + GROUP Clause
