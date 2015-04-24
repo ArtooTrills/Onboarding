@@ -20,9 +20,9 @@
 ## References
 
 [MySQL Basics - Digital Ocean](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
-The above link explains Setup for Ubuntu is different. FOr Mac use homebrew
-  * Use only the command line for the task
-  * After youare comfotable with the command line, install [MySQL Workbench](https://www.mysql.com/products/workbench/)
+* The above link explains Setup for Ubuntu is different. FOr Mac use homebrew
+* Use only the command line for the task
+* After youare comfotable with the command line, install [MySQL Workbench](https://www.mysql.com/products/workbench/)
   
 ## Tasks
   * Create a table `bank` to store bank details, etc. Create a table `branches` to store associated branch details
