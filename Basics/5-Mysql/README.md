@@ -20,7 +20,7 @@
 ## References
 
 [MySQL Basics - Digital Ocean](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
-* The above link explains Setup for Ubuntu is different. For Mac use homebrew
+* The above link explains Setup for Ubuntu is different. [For Mac use homebrew](https://dev.mysql.com/doc/refman/5.5/en/default-privileges.html)
 * Use only the command line for the task
 * After youare comfotable with the command line, install [MySQL Workbench](https://www.mysql.com/products/workbench/)
   
