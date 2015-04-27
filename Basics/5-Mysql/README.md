@@ -31,3 +31,17 @@
   * Export your output as an `sql` file.
     * Sometimes you just want structure - what's the command?
     * Sometimes you also want data - what's the command?
+  
+  * On the data set downloading in the above mentioned list, write the following queries:
+    * Query to find second highest salary of Employee
+    * Query to find Max Salary from each department
+    * Query to find Avg Salary from each department
+    * Query to find all the employee whose salary is more than the avg for his dept
+    * Query to print the name of distinct employee whose DOB is between 01/01/1960 to 31/12/1975.
+    * Query find number of employees according to gender  whose DOB is between 01/01/1960 to 31/12/1975
+    * Query to find name of employee whose name Start with ‘A’
+    * Query to find all managers for the dept from the company whose salary is in top 2
+    * Query to find employees hired between 1990 and 1995
+    * All the employees who had more than three titles and list their titles
+    * Employee details: Name, Title, Department, Department manager
+    * Average salaries across departments for last 5 years
