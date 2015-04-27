@@ -32,7 +32,7 @@
     * Sometimes you just want structure - what's the command?
     * Sometimes you also want data - what's the command?
   
-  * On the data set downloading in the above mentioned list, write the following queries:
+  * On the data set downloaded in the above mentioned link, write the following queries:
     * Query to find second highest salary of Employee
     * Query to find Max Salary from each department
     * Query to find Avg Salary from each department
