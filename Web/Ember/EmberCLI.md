@@ -7,4 +7,6 @@
 
 
 * Opensource ember apps 
+  - https://github.com/kiwiupover/ember-weather
   - http://chancancode.github.io/hn-reader/about
+  
