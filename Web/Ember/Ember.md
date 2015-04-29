@@ -1,9 +1,9 @@
 - Why Ember - http://ember.vicramon.com/introduction
-- Basic Building Blocks of Ember from (Ember.js Guide)[http://guides.emberjs.com/] (skip advanced things)
+- Basic Building Blocks of Ember from [Ember.js Guide](http://guides.emberjs.com/) (skip advanced things)
   - Router, Routes, Controller, Views, Components, Templates.
 - Handlebars
   - Download the library from http://handlebarsjs.com/ and try the examples while going through website.
-  - Alternatively, setup handlebars on (jsbin.com)[jsbin.com] and try the examples there.
+  - Alternatively, setup handlebars on [jsbin.com](jsbin.com) and try the examples there.
 
 - Read on Ember Object http://ember.vicramon.com/the-ember-object
 
