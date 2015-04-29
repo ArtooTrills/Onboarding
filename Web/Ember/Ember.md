@@ -1,14 +1,24 @@
-- Philosophy: Why Ember? ()[Links] - 1 Hr.
-- Basic Building Blocks of Ember
+- Why Ember - http://ember.vicramon.com/introduction
+- Basic Building Blocks of Ember from (Ember.js Guide)[http://guides.emberjs.com/] (skip advanced things)
   - Router, Routes, Controller, Views, Components, Templates - 1 Day.
-- Comprehensive walkthrough of (Ember.js Guide)[http://guides.emberjs.com/] by Dilip (skipping advanced things). 2 Hrs.
 - Learning Handlebars - 4 Hrs.
 
-###Task: Blogpost App with Ember.js 
-Something like this (Rock n Roll with Ember.js)(http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app) (3 Days)
-- Design UI on Paper
-- Develope App 
-- Use Fixture Data. 
-- Build & Host on Github pages.
+- Read on Ember Object http://ember.vicramon.com/the-ember-object
 
-
+###Task: Create Basic Blog app on emberjs.jsbin.com & locally
+  - Design UI on Paper
+  - Refer https://github.com/balinterdi/rock-and-roll for basic folder structure (only client part, we will use Fixture instead data of API)
+  ##### Data Models to be created
+    - post -> id, title, content, comments, rating
+    - author -> id, name
+    - comment -> id, text
+  ##### Routes
+    - posts, posts/:id,  posts/edit, authors, authors/:id, authors/edit
+  ##### Features
+    - Home page with list of blog posts. Each list item has title, link to full post, link to edit post, author name & comments count
+    - Post details page contains Title, content, rating and link to author, edit post button
+    - Post Edit page contains Title Edit box, content edit box, Rating Change, Author dropdown
+    - Authors List with links to author page, post count.
+    - Author page cotains author name, list of his blogs, edit button
+    - Author Edit page contains edit box for changing author name, this page cotains 
+  - Host on Github pages.    
