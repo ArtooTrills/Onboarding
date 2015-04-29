@@ -10,13 +10,15 @@
 ###Task: Create Basic Blog app on emberjs.jsbin.com & locally
   - Design UI on Paper
   - Refer https://github.com/balinterdi/rock-and-roll for basic folder structure (only client part, we will use Fixture instead data of API)
-  ##### Data Models to be created
+  - Data Models to be created
     - post -> id, title, content, comments, rating
     - author -> id, name
     - comment -> id, text
-  ##### Routes
+  
+  - Routes
     - posts, posts/:id,  posts/edit, authors, authors/:id, authors/edit
-  ##### Features
+  
+  - Features
     - Home page with list of blog posts. Each list item has title, link to full post, link to edit post, author name & comments count
     - Post details page contains Title, content, rating and link to author, edit post button
     - Post Edit page contains Title Edit box, content edit box, Rating Change, Author dropdown
