@@ -1,6 +1,6 @@
 # Web
 
-- Maintain a Notebook for 
+- Maintain a Notebook for steps you follow during any task or setup with title and content.
 - Codeacademy 
   - HTML & CSS
   - Javascript
