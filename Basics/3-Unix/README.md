@@ -31,7 +31,7 @@
 
 ## Scripting
  * ```!#/usr/bin -ex```
-  * Write a script to create 10 files with naming convention: <YYYY-MM-DD>-<i>.log with content <i>
-  * Rename files to <DD-MM-YYY>-<i>.log
+  * Write a script to create 10 files with naming convention: YYYY-MM-DD-i.log with content i
+  * Rename files to DD-MM-YYY-i.log
   * Multiply by 5 to every file's content that is an even number
   * Now, replace every occurance of 5 with 7
