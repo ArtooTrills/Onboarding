@@ -77,7 +77,7 @@ Example
   * do not delete your existing code, just comment it
 
 ## Topic 2 - jQuery Basics
-* [Code Academy](http://www.codecademy.com/tracks/jquery)
+* [Code Academy - Interactive](http://www.codecademy.com/tracks/jquery) - Focus on the ajax part of jQuery
   * DOM selectors
   * ajax
   * Difference between generic $.ajax and $.get and $.post
