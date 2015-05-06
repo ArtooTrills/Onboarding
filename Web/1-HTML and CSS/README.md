@@ -1,8 +1,7 @@
 # Learning HTML and CSS:
-* [Make an interactive website](http://www.codecademy.com/skills/make-an-interactive-website)
+* [Make an interactive website - Codecademy](http://www.codecademy.com/skills/make-an-interactive-website)
 * [Interactive Game to learn CSS](http://flukeout.github.io/) - Skim through this as fast as you can.
-* [Website from scratch](https://developer.mozilla.org/en-US/Learn)
-
+* [Website from scratch - MDN](https://developer.mozilla.org/en-US/Learn)
 
 ## Task
 -  Pull IMDB Data using this API - http://www.omdbapi.com/
