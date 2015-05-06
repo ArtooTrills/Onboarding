@@ -1,5 +1,5 @@
 ## Topic 1- JavaScript Basics
-*  [Code Academy](http://www.codecademy.com/tracks/javascript)
+*  [Code Academy - Interactive](http://www.codecademy.com/tracks/javascript)
 
 ### Task
 ####Part 1 - Data Generation
@@ -89,7 +89,7 @@ Example
 
 
 ## Topic 3 - Chrome Console
-[Code School](https://www.codeschool.com/courses/discover-devtools/videos)
+* [Code School - Video](https://www.codeschool.com/courses/discover-devtools/videos)
   * Scripts
   * Resources
   * Network
