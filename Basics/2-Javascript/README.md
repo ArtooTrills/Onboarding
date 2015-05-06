@@ -88,7 +88,8 @@ Example
   * Print out a table of all the tags and their counts in the HTML page e.g. ```<meta> = 1```
 
 
-## Topic 3 - [Chrome Console](https://www.codeschool.com/courses/discover-devtools/videos)
+## Topic 3 - Chrome Console
+[Code School](https://www.codeschool.com/courses/discover-devtools/videos)
   * Scripts
   * Resources
   * Network
