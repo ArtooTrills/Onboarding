@@ -26,3 +26,8 @@ This is a living repository of information. Please link resources to this and de
 ## Mentors
 * There will be one mentor through the program
 * There will be one additional mentor for each of the sections
+
+## Before you get started..
+* Some tasks are easy, some are difficult - Don't be discouraged if you are not able to solve everything in the first try. Focus on getting a subset of the result and then iterate
+* The reading materials might not always have everything that you need to complete the tasks - it is only to help you get started. 
+* You should research, explore, suggest and give feedback on the content and tasks - If you would like to see some changes here, create a [Pull Request](https://help.github.com/articles/using-pull-requests/) and assign your mentor. We can all discuss on the PR and merge it
