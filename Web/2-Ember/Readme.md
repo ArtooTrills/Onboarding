@@ -8,8 +8,8 @@ Prerequisite at this stage:
 - Already introduced to tools like `npm` & `bower`.
 
 We will go through below list in order
-- [Ember.js](https://github.com/ArtooTrills/Onboarding/blob/master/Web/Ember/Ember.md)
-- [Ember-cli](https://github.com/ArtooTrills/Onboarding/blob/master/Web/Ember/EmberCLI.md)
-- [Ember-Data](https://github.com/ArtooTrills/Onboarding/blob/master/Web/Ember/EmberData.md)
+- [Ember.js](https://github.com/ArtooTrills/Onboarding/blob/master/Web/2-Ember/Ember.md)
+- [Ember-cli](https://github.com/ArtooTrills/Onboarding/blob/master/Web/2-Ember/EmberCLI.md)
+- [Ember-Data](https://github.com/ArtooTrills/Onboarding/blob/master/Web/2-Ember/EmberData.md)
 
 Learning Ember.js is like a roller coaster ride, so **Brace Yourself**
