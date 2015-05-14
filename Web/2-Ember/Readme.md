@@ -6,6 +6,7 @@ Prerequisite at this stage:
 - You can build a basic website using HTML, CSS, Javascript.
 - You are comfortable with using external JS & CSS libraries in a webpage.
 - Already introduced to tools like `npm` & `bower`.
+- [Promises.](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
 We will go through below list in order
 - [Ember.js](https://github.com/ArtooTrills/Onboarding/blob/master/Web/2-Ember/Ember.md)
