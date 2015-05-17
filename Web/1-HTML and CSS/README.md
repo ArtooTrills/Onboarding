@@ -10,3 +10,8 @@
 -  Do form validation on Movie Title
 -  Show an optional field for year. If entered it should be between - 1800 to current year
 -  For no-hit results show a 404 kind of page
+
+## CSS Expert Level
+Watch this demo - http://codepen.io/jakealbaugh/full/PwLXXP/
+-  Create a logo for your website using pure css (shape, shades, gradient, animation etc)
+-  Explain each line of code in that demo
