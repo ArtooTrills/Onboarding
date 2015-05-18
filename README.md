@@ -6,6 +6,7 @@ Our secret sauce. Studies suggest that there is 5x improvement in productivity i
 * Interaction with people @Artoo
 * Introduction to Artoo processes - Git, Code Reviews, Asana, Slack
 * Artoo approach to debugging & learning - tasks, source code, blogs, videos
+* Creativity, Stretch your mind
 * Deep dive into the product - Data Model, Client Delivery
 * Field Visits
 
