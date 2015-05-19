@@ -19,6 +19,7 @@
 * [An interesting example](http://stevekrenzel.com/finding-friends-with-mapreduce)
 * Reduce and rereduce
 * Built in functions: _sum, _stats, _count
+* [Let's refresh](http://www.relaxed.tv/#video/0e0aad9d3ff48ed9d29fe32b7918468a)
 
 ## Task
 On the dataset(url to be added) provided, create views (using map-reduce) to-
@@ -26,8 +27,6 @@ On the dataset(url to be added) provided, create views (using map-reduce) to-
     * Display the sum of the loan amount in each branch for each disbursement_date.
     * Display the sum of the loan amount in each branch per loan-type.
     * Combine 2 and 3.
-
-* [Let's refresh](http://www.relaxed.tv/#video/0e0aad9d3ff48ed9d29fe32b7918468a)
 
 ## Changes
 * [How does changes work?] (http://guide.couchdb.org/draft/notifications.html)
