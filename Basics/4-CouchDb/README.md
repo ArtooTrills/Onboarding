@@ -26,7 +26,7 @@
     	3) Display the sum of the loan amount in each branch per loan-type.
     	4) Combine 2 and 3.
 
-## [Let's refresh](http://www.relaxed.tv/#video/0e0aad9d3ff48ed9d29fe32b7918468a)
+* [Let's refresh](http://www.relaxed.tv/#video/0e0aad9d3ff48ed9d29fe32b7918468a)
 
 ## Changes
 	* How does changes work?
