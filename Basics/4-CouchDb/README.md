@@ -2,11 +2,11 @@
 * [CouchDB - What and why?](http://www.infoq.com/articles/apache-couchdb-the-definitive-introduction)
 	 * Read till 'Technical details'. Rest of the concepts will be covered in the upcoming sections.
 * [Install CouchDB](http://couchdb.apache.org/) and [Try this example.](http://guide.couchdb.org/draft/tour.html#go)
-	 * Why does CouchDB make sense for Artoo?
+* Why does CouchDB make sense for Artoo?
 
 ## Basics
 * CouchDB is a 'schema-less' database. [Why?](http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
-* [Key/ Value concept](https://wiki.apache.org/couchdb/Introduction_to_CouchDB_views#Keys_and_values)
+* [Key/ Value concept](http://guide.couchdb.org/draft/why.html#containment)
 * [Core API](http://guide.couchdb.org/draft/api.html#api)
 
 ## Documents
@@ -27,6 +27,18 @@ On the dataset(url to be added) provided, create views (using map-reduce) to-
     * Display the sum of the loan amount in each branch for each disbursement_date.
     * Display the sum of the loan amount in each branch per loan-type.
     * Combine 2 and 3.
+    
+## Extra
+* [What are Show / List / Update APIs?](http://docs.couchdb.org/en/latest/couchapp/ddocs.html#show-functions)
+
+#### Task
+* Using `curl`, create 2 databases, add 5 different documents in each. Create a third which contains 10 combined. Build a view to display the different sets of docs
+* Using `curl`, create a database for 10 cricket teams/football teams/racers over 20 games with their details. Now using views:
+	* Build a championship table for the team
+	* Build a championship table for players
+	* Build a historical view a player
+	* If you had to purchase a player, which one will it be? Using a view justify your response.
+* Demonstrate Show, List and Update APIs on your dataset above
 
 ## Changes
 * [How does changes work?] (http://guide.couchdb.org/draft/notifications.html)
@@ -41,15 +53,3 @@ On the dataset(url to be added) provided, create views (using map-reduce) to-
 * [How Artoo does mobile Sync] (http://dataprotocols.org/couchdb-replication/)
 * [What is touch db and how we use it] (https://github.com/couchbaselabs/TouchDB-iOS/wiki/Replication-Algorithm)
 * [How does one do filtered replication?] (https://wiki.apache.org/couchdb/Replication#Filtered_Replication)
-
-## Extra
-* [What are Show / List / Update APIs?](http://docs.couchdb.org/en/latest/couchapp/ddocs.html#show-functions)
-
-## Task
-* Using `curl`, create 2 databases, add 5 different documents in each. Create a third which contains 10 combined. Build a view to display the different sets of docs
-* Using `curl`, create a database for 10 cricket teams/football teams/racers over 20 games with their details. Now using views:
-	* Build a championship table for the team
-	* Build a championship table for players
-	* Build a historical view a player
-	* If you had to purchase a player, which one will it be? Using a view justify your response.
-* Demonstrate Show, List and Update APIs on your dataset above
