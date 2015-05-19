@@ -1,30 +1,30 @@
 ## Introduction to CouchDB
-     [CouchDB - What and why?](http://www.infoq.com/articles/apache-couchdb-the-definitive-introduction)
-	      * Read till 'Technical details'. Rest of the concepts will be covered in the upcoming sections.
-	 [Install CouchDB](http://couchdb.apache.org/) and [Try this example.](http://guide.couchdb.org/draft/tour.html#go)
-	 Why does CouchDB make sense for Artoo?
+* [CouchDB - What and why?](http://www.infoq.com/articles/apache-couchdb-the-definitive-introduction)
+	 * Read till 'Technical details'. Rest of the concepts will be covered in the upcoming sections.
+* [Install CouchDB](http://couchdb.apache.org/) and [Try this example.](http://guide.couchdb.org/draft/tour.html#go)
+	 * Why does CouchDB make sense for Artoo?
 
 ## Basics
-	 CouchDB is a 'schema-less' database. [Why?](http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
-	 [Key/ Value concept](https://wiki.apache.org/couchdb/Introduction_to_CouchDB_views#Keys_and_values)
-	 [Core API](http://guide.couchdb.org/draft/api.html#api)
+* CouchDB is a 'schema-less' database. [Why?](http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
+* [Key/ Value concept](https://wiki.apache.org/couchdb/Introduction_to_CouchDB_views#Keys_and_values)
+* [Core API](http://guide.couchdb.org/draft/api.html#api)
 
 ## Documents in CouchDB
-	 [Docs, local docs, and _design/docs.](http://guide.couchdb.org/draft/design.html#design)
-	 [Revisions and Conflicts](http://guide.couchdb.org/draft/conflicts.html#conflicts)
+* [Docs, local docs, and _design/docs.](http://guide.couchdb.org/draft/design.html#design)
+* [Revisions and Conflicts](http://guide.couchdb.org/draft/conflicts.html#conflicts)
 
 ## Views
-	 [Views](http://couchdb.readthedocs.org/en/1.6.1/api/ddoc/views.html#view-options)
-     [What is Map Reduce?](http://www.slideshare.net/okurow/couchdb-mapreduce-13321353)
-     [An interesting example](http://stevekrenzel.com/finding-friends-with-mapreduce)
-     Reduce and rereduce
-     Built in functions: _sum, _stats, _count
-     Task:
-    	* On the dataset(url to be added) provided, create views (using map-reduce) to-
-    		1) Display the sum of the loan amount in each branch based on their branch_context.
-    		2) Display the sum of the loan amount in each branch for each disbursement_date.
-    		3) Display the sum of the loan amount in each branch per loan-type.
-    		4) Combine 2 and 3.
+* [Views](http://couchdb.readthedocs.org/en/1.6.1/api/ddoc/views.html#view-options)
+* [What is Map Reduce?](http://www.slideshare.net/okurow/couchdb-mapreduce-13321353)
+* [An interesting example](http://stevekrenzel.com/finding-friends-with-mapreduce)
+* Reduce and rereduce
+* Built in functions: _sum, _stats, _count
+* Task:
+    * On the dataset(url to be added) provided, create views (using map-reduce) to-
+    	1) Display the sum of the loan amount in each branch based on their branch_context.
+    	2) Display the sum of the loan amount in each branch for each disbursement_date.
+    	3) Display the sum of the loan amount in each branch per loan-type.
+    	4) Combine 2 and 3.
 
 ## [Let's refresh](http://www.relaxed.tv/#video/0e0aad9d3ff48ed9d29fe32b7918468a)
 
