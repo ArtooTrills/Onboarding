@@ -9,7 +9,7 @@
 * [Key/ Value concept](https://wiki.apache.org/couchdb/Introduction_to_CouchDB_views#Keys_and_values)
 * [Core API](http://guide.couchdb.org/draft/api.html#api)
 
-## Documents in CouchDB
+## Documents
 * [Docs, local docs, and _design/docs.](http://guide.couchdb.org/draft/design.html#design)
 * [Revisions and Conflicts](http://guide.couchdb.org/draft/conflicts.html#conflicts)
 
