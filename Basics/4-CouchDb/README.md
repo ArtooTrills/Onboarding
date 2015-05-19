@@ -21,16 +21,19 @@
 		* Local Sequence
 
 ## Changes
-	* How does changes work?
-	* API structure?
+	* [How does changes work?] (http://guide.couchdb.org/draft/notifications.html)
+	* [Watch the video and also play around with the concepts] (http://www.oreilly.com/pub/e/1708)
+
 	* Create a DB and a few docs. Demonstrate the effect of the following query params:
 		* since
 		* feed
 		* filter
 
 ## Replication
-	* What's the point of replication?
-	* How does one do filtered replication?
+	* [What's the point of replication?] (http://guide.couchdb.org/draft/replication.html)
+	* [How Artoo does mobile Sync] (http://dataprotocols.org/couchdb-replication/)
+	* [What is touch db and how we use it] (https://github.com/couchbaselabs/TouchDB-iOS/wiki/Replication-Algorithm)
+	* [How does one do filtered replication?] (https://wiki.apache.org/couchdb/Replication#Filtered_Replication)
 
 ## Extra
 	* What are Show / List / Update APIs?
