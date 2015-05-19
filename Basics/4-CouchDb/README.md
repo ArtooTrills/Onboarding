@@ -32,7 +32,6 @@ On the dataset(url to be added) provided, create views (using map-reduce) to-
 ## Changes
 * [How does changes work?] (http://guide.couchdb.org/draft/notifications.html)
 * [Watch the video and also play around with the concepts] (http://www.oreilly.com/pub/e/1708)
-
 * Create a DB and a few docs. Demonstrate the effect of the following query params:
 	* since
 	* feed
