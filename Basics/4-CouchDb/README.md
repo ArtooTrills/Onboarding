@@ -21,7 +21,7 @@
 * Built in functions: _sum, _stats, _count
 * [Let's refresh](http://www.relaxed.tv/#video/0e0aad9d3ff48ed9d29fe32b7918468a)
 
-### Task
+#### Task
 On the dataset(url to be added) provided, create views (using map-reduce) to-
     * Display the sum of the loan amount in each branch based on their branch_context.
     * Display the sum of the loan amount in each branch for each disbursement_date.
