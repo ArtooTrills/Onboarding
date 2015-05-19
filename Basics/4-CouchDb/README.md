@@ -1,24 +1,31 @@
-## Reference
-[CouchDB Guides](http://guide.couchdb.org/draft/index.html)
+## Introduction to CouchDB
+* [CouchDB - What and why?](http://www.infoq.com/articles/apache-couchdb-the-definitive-introduction)
+	 * Read till 'Technical details'. Rest of the concepts will be covered in the upcoming sections.
+* [Install CouchDB](http://couchdb.apache.org/) and [Try this example.](http://guide.couchdb.org/draft/tour.html#go)
+	 * Why does CouchDB make sense for Artoo?
+
 ## Basics
-	* Key/ Value concept
-	* CAP theorem
-		* What does C, A, P really mean? 
-	* Why does CouchDB make sense for Artoo?
-	* What are design docs?
+* CouchDB is a 'schema-less' database. [Why?](http://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/)
+* [Key/ Value concept](https://wiki.apache.org/couchdb/Introduction_to_CouchDB_views#Keys_and_values)
+* [Core API](http://guide.couchdb.org/draft/api.html#api)
 
-## Document API
-	* API
-	* Differences between docs, local docs, and _design/docs?
-
-## Map Reduce
-[What is Map Reduce?](http://stevekrenzel.com/finding-friends-with-mapreduce)
+## Documents
+* [Docs, local docs, and _design/docs.](http://guide.couchdb.org/draft/design.html#design)
+* [Revisions and Conflicts](http://guide.couchdb.org/draft/conflicts.html#conflicts)
 
 ## Views
-	* How does Map, Reduce really work?
-	* Key structure
-	* View Options
-		* Local Sequence
+* [Views](http://couchdb.readthedocs.org/en/1.6.1/api/ddoc/views.html#view-options)
+* [What is Map Reduce?](http://www.slideshare.net/okurow/couchdb-mapreduce-13321353)
+* [An interesting example](http://stevekrenzel.com/finding-friends-with-mapreduce)
+* Reduce and rereduce
+* Built in functions: _sum, _stats, _count
+* Task: On the dataset(url to be added) provided, create views (using map-reduce) to-
+    * Display the sum of the loan amount in each branch based on their branch_context.
+    * Display the sum of the loan amount in each branch for each disbursement_date.
+    * Display the sum of the loan amount in each branch per loan-type.
+    * Combine 2 and 3.
+
+* [Let's refresh](http://www.relaxed.tv/#video/0e0aad9d3ff48ed9d29fe32b7918468a)
 
 ## Changes
 	* [How does changes work?] (http://guide.couchdb.org/draft/notifications.html)
