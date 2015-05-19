@@ -19,7 +19,9 @@
 * [An interesting example](http://stevekrenzel.com/finding-friends-with-mapreduce)
 * Reduce and rereduce
 * Built in functions: _sum, _stats, _count
-* Task: On the dataset(url to be added) provided, create views (using map-reduce) to-
+
+## Task
+On the dataset(url to be added) provided, create views (using map-reduce) to-
     * Display the sum of the loan amount in each branch based on their branch_context.
     * Display the sum of the loan amount in each branch for each disbursement_date.
     * Display the sum of the loan amount in each branch per loan-type.
@@ -28,28 +30,28 @@
 * [Let's refresh](http://www.relaxed.tv/#video/0e0aad9d3ff48ed9d29fe32b7918468a)
 
 ## Changes
-	* [How does changes work?] (http://guide.couchdb.org/draft/notifications.html)
-	* [Watch the video and also play around with the concepts] (http://www.oreilly.com/pub/e/1708)
+* [How does changes work?] (http://guide.couchdb.org/draft/notifications.html)
+* [Watch the video and also play around with the concepts] (http://www.oreilly.com/pub/e/1708)
 
-	* Create a DB and a few docs. Demonstrate the effect of the following query params:
-		* since
-		* feed
-		* filter
+* Create a DB and a few docs. Demonstrate the effect of the following query params:
+	* since
+	* feed
+	* filter
 
 ## Replication
-	* [What's the point of replication?] (http://guide.couchdb.org/draft/replication.html)
-	* [How Artoo does mobile Sync] (http://dataprotocols.org/couchdb-replication/)
-	* [What is touch db and how we use it] (https://github.com/couchbaselabs/TouchDB-iOS/wiki/Replication-Algorithm)
-	* [How does one do filtered replication?] (https://wiki.apache.org/couchdb/Replication#Filtered_Replication)
+* [What's the point of replication?] (http://guide.couchdb.org/draft/replication.html)
+* [How Artoo does mobile Sync] (http://dataprotocols.org/couchdb-replication/)
+* [What is touch db and how we use it] (https://github.com/couchbaselabs/TouchDB-iOS/wiki/Replication-Algorithm)
+* [How does one do filtered replication?] (https://wiki.apache.org/couchdb/Replication#Filtered_Replication)
 
 ## Extra
-	* What are Show / List / Update APIs?
+* [What are Show / List / Update APIs?](http://docs.couchdb.org/en/latest/couchapp/ddocs.html#show-functions)
 
-## Tasks
-	* Using `curl`, create 2 databases, add 5 different documents in each. Create a third which contains 10 combined. Build a view to display the different sets of docs
-	* Using `curl`, create a database for 10 cricket teams/football teams/racers over 20 games with their details. Now using views:
-		* Build a championship table for the team
-		* Build a championship table for players
-		* Build a historical view a player
-		* If you had to purchase a player, which one will it be? Using a view justify your response.
-	* Demonstrate Show, List and Update APIs on your dataset above
+## Task
+* Using `curl`, create 2 databases, add 5 different documents in each. Create a third which contains 10 combined. Build a view to display the different sets of docs
+* Using `curl`, create a database for 10 cricket teams/football teams/racers over 20 games with their details. Now using views:
+	* Build a championship table for the team
+	* Build a championship table for players
+	* Build a historical view a player
+	* If you had to purchase a player, which one will it be? Using a view justify your response.
+* Demonstrate Show, List and Update APIs on your dataset above
