@@ -6,6 +6,7 @@
   - Alternatively, setup handlebars on [jsbin.com](jsbin.com) and try the examples there.
 
 - Read on Ember Object http://ember.vicramon.com/the-ember-object
+- Blog on creating basic application using only Ember http://andycrum.com/2014/05/17/an-introduction-to-ember-js/
 
 ###Task: Create Basic Blog app on emberjs.jsbin.com & locally
   - Design UI on Paper
