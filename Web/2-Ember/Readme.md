@@ -7,6 +7,7 @@ Prerequisite at this stage:
 - You are comfortable with using external JS & CSS libraries in a webpage.
 - Already introduced to tools like `npm` & `bower`.
 - [Promises.](http://www.html5rocks.com/en/tutorials/es6/promises/)
+- [Quick introduction to ES6](http://andycrum.com/2014/06/29/a-quick-introduction-to-es6-modules/)
 
 We will go through below list in order
 - [Ember.js](https://github.com/ArtooTrills/Onboarding/blob/master/Web/2-Ember/Ember.md)
