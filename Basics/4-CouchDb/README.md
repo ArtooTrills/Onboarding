@@ -32,6 +32,7 @@
 * [What are Show / List / Update APIs?](http://docs.couchdb.org/en/latest/couchapp/ddocs.html#show-functions)
 
 #### Task
+[Build the table similar to this site : http://www.bbc.com/sport/football/premier-league/table]
 * Using `curl`, create 2 databases, add 5 different documents in each. Create a third which contains 10 combined. Build a view to display the different sets of docs
 * Using `curl`, create a database for 10 cricket teams/football teams/racers over 20 games with their details. Now using views:
 	* Build a championship table for the team
@@ -39,6 +40,8 @@
 	* Build a historical view a player
 	* If you had to purchase a player, which one will it be? Using a view justify your response.
 * Demonstrate Show, List and Update APIs on your dataset above
+
+
 
 ## Changes
 * [How does changes work?] (http://guide.couchdb.org/draft/notifications.html)
