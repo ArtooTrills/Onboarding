@@ -42,3 +42,8 @@ How to bridge this to Artoo
 - Node, Coffee, MotherShip
 - MySQL ORMs
 - MotherShip
+
+
+EXTRA:
+Important Concepts http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+
