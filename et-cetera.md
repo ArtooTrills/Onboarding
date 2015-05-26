@@ -28,3 +28,7 @@ Interesting
 - Why 'Nigerian' Scammers? http://research.microsoft.com/apps/pubs/default.aspx?id=167719
 - Understanding Randomness - http://www.wired.com/2012/12/what-does-randomness-look-like/
 
+People
+- Brett Victor - http://worrydream.com
+- Jeff Atwood - http://www.codinghorror.com/blog/
+- 
