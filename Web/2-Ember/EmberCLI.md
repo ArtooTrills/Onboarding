@@ -8,7 +8,7 @@
 ###Task
 Same task given in [Ember.js]() but implment using ember-cli(v0.2.5).
 Extras bits to do in task: 
-- Use ember-cli-mirage for API
+- Use [ember-cli-mirage](http://www.ember-cli-mirage.com/) for dummy API
 - Create Ember Component for Editing Blog.
 
 
