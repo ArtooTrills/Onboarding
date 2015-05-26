@@ -9,18 +9,14 @@
 
 - Small Bootstrap Project
 
-- Learn Ember Basics (No CLI)
+- Learn Ember Basics (No CLI): Go through Ember On boarding
 
-- Build blog/Instagram with Vanilla Ember.
+- Build blog/Instagram with Using Ember CLI: After going through Ember CLI onboarding
   - Add, Edit and Display Posts
   - Add Comments.
   - Learn concepts of Computed Property, Bindings, helpers.
 
-- Ember CLI
-  - Convert Above project to Ember CLI
-
-
-Project+
+Brownie Points
 - Social Share button.
 - Add Social & OAuth Login. 
 - Use Parse or Firebase backend.
@@ -29,22 +25,20 @@ Project+
 
 - Introduce bower, npm, broccoli, Babel into above project.
 
-HTML5 CSS3 concepts like Transitions
-D3
-Unit Testing
-Handlebars/HTMLBars
-Read Code
-Ember Stitching Apps like in Portkey
-Ember Data - Custom Adapter
+Concepts & Libraries to cover
+- HTML5 CSS3 concepts like Transitions
+- D3
+- Unit Testing
+- Handlebars/HTMLBars
+- Reading Sourcecode
+- Ember Stitching Apps like in Portkey
+- Ember Data - Custom Adapter
 
 How to bridge this to Artoo
-1 App like Lending - 3 days
-Config
-All other Apps Dashboard in 2 days
+- 1 App like Lending - 3 days
+- Config
+- All other Apps Dashboard in 2 days
 
-Node, Coffee, MotherShip
-MySQL ORMs
-MotherShip
-
-Important Concepts
-  - http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+- Node, Coffee, MotherShip
+- MySQL ORMs
+- MotherShip
