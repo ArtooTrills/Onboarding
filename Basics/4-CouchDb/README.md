@@ -53,6 +53,5 @@
 
 ## Replication
 * [What's the point of replication?] (http://guide.couchdb.org/draft/replication.html)
-* [How Artoo does mobile Sync] (http://dataprotocols.org/couchdb-replication/)
-* [What is touch db and how we use it] (https://github.com/couchbaselabs/TouchDB-iOS/wiki/Replication-Algorithm)
 * [How does one do filtered replication?] (https://wiki.apache.org/couchdb/Replication#Filtered_Replication)
+* [What is touch db and how we use it] (https://github.com/couchbaselabs/TouchDB-iOS/wiki/Replication-Algorithm)
