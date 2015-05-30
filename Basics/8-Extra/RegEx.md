@@ -19,3 +19,6 @@ Write a function which takes an object with following attributes and validates t
 -  a web url (handle all possible formats), 
 -  an IP address, 
 -  an image file name (png, jpeg, jpg, gif only)
+
+EXTRA:
+- You can create/share/test regex on https://regex101.com/
