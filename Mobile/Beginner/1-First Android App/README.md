@@ -3,8 +3,9 @@
 
 ### Resources in order
 
-* Building Your First App - Android Developers - http://developer.android.com/training/basics/firstapp/index.html
+* Building Your First App - Android Developers - http://developer.android.com/training/basics/firstapp/index.html [3H]
 * Lesson 1 and 2 of Udacity Android Development for Beginners https://www.udacity.com/course/android-development-for-beginners--ud837
+[6H]
 
 
 ### Section Checklist
