@@ -2,7 +2,7 @@ Hola! By now you would have known that java is the key to Android development an
 
 ### Resources
 
-* We will be following Udacity Intro to Java - https://www.udacity.com/course/intro-to-java-programming--cs046 for this section.
+* We will be following Udacity Intro to Java - https://www.udacity.com/course/intro-to-java-programming--cs046 for this section. Leeson 2,8 and 9 forms the very foundation of java development and it's very important that you have a good understanding of above before proceeding with the next sections.
 
  * Lesson 1: Introduction to Computers, Programming Languages, Algorithms, and the Java Programming Environment [optional]
  * Lesson 2: Introduction to Classes and Objects
@@ -12,8 +12,6 @@ Hola! By now you would have known that java is the key to Android development an
 * Static keyword - http://www.javatpoint.com/static-keyword-in-java
  
 * this keyword - http://www.javatpoint.com/this-keyword
-
-Leeson 2,8 and 9 forms the vety foundation of java development and it's very important that you have a good understanding of above before proceeding with the next sections.
 
 ### Section Checklist
 
