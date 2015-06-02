@@ -13,6 +13,10 @@ Hola! By now you would have known that java is the key to Android development an
  
 * this keyword - http://www.javatpoint.com/this-keyword
 
+* MultiThreading
+  * http://www.tutorialspoint.com/java/java_multithreading.htm
+  * http://www.javabeginner.com/java-threads-tutorial/all/1
+
 ### Section Checklist
 
 1. How to run a java program
@@ -23,4 +27,5 @@ Hola! By now you would have known that java is the key to Android development an
 6. Inheritance
 7. Static and final keywords
 8. this keyword
+9. Threads
 
