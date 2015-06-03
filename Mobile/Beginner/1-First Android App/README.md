@@ -19,4 +19,4 @@
 
 ### Task
 
-Write an android application which first greets you with a welcome screen and then after 10 seconds redirect you to home screen on which the user see the home page of app. 
+Write an android application which first greets you with a welcome screen and then after 10 seconds redirect you to home screen of app. You are free to design home screen by yourself.
