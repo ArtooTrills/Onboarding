@@ -15,8 +15,8 @@
 3. Building simple xml layout
 4. Interaction with the layout
 5. Activity
-6. Intents
+6. Moving from one activity to other - Basic Intents
 
 ### Task
 
-TBD
+Write an android application which first greets you with a welcome screen and then after 10 seconds redirect you to home screen on which the user see the home page of app. 
