@@ -5,7 +5,8 @@ Hola! By now you would have known that java is the key to Android development an
 * We will be following Udacity Intro to Java - https://www.udacity.com/course/intro-to-java-programming--cs046 for this section. Leeson 2,8 and 9 forms the very foundation of java development and it's very important that you have a good understanding of above before proceeding with the next sections.
 
  * Lesson 1: Introduction to Computers, Programming Languages, Algorithms, and the Java Programming Environment [optional]
- * Lesson 2: Introduction to Classes and Objects
+ * Lesson 2: Objects 
+ * Lesson 3: Classes
  * Lesson 8: Methods (Parameter Passing, Instance vs. Static Methods)
  * Lesson 9: Inheritance
  
