@@ -10,6 +10,9 @@ Our secret sauce. Studies suggest that there is 5x improvement in productivity i
 * Deep dive into the product - Data Model, Client Delivery
 * Field Visits
 
+# Metrics and Evaluation
+*
+
 ## Schedule
 
 | Weeks | Segment          | Description                           |  
@@ -22,11 +25,12 @@ Our secret sauce. Studies suggest that there is 5x improvement in productivity i
 | 14-20 | Client Delivery  |                                       |
 
 ## Next Steps
-This is a living repository of information. Please link resources to this and detail out a rough action plan as well as test plan for the newbie.
+This is a living repository of information. Please link resources to this and detail out a rough action plan as well as test plan for the newbie. If you are looking to add new or fix bugs please send in pull requests.
 
 ## Mentors
 * There will be one mentor through the program
 * There will be one additional mentor for each of the sections
+* Mentors need to go over the Mentors.md for guidelines to follow
 
 ## Before you get started..
 * Some tasks are easy, some are difficult - Don't be discouraged if you are not able to solve everything in the first try. Focus on getting a subset of the result and then iterate
