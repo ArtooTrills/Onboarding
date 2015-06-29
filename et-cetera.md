@@ -9,6 +9,12 @@ These are good reads which need to be distributed across tasks and put in perspe
 - SOLID Principles - http://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29
 - Message Oriented Middleware - PubSub, MessageQueues, EventBus
 - A System Design Perspective - Mailinator - http://highscalability.com/mailinator-architecture
+- http://en.wikipedia.org/wiki/Unix_philosophy
+- http://en.wikipedia.org/wiki/Test-driven_development
+
+- https://medium.com/google-developers
+- https://www.youtube.com/user/androiddevelopers
+- https://www.youtube.com/user/GoogleDevelopers
 
 Interesting Technical material (advanced)
 - The AOSA Book (2 volumes) - http://aosabook.org/en/index.html
