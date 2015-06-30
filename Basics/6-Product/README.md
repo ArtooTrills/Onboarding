@@ -3,11 +3,16 @@
 
 ## MySQL
   * Schema diagram
-    * Org and related tables
-    * Apps
-    * Utils
-    * Log
-
+  * Org and related tables
+  * Apps
+  * Utils
+  * Log
+  
+## CouchDB
+  * Why CouchDB?
+  * Why are we happy?
+  * Why are we unhappy?
+  
 ## MotherShip
   * What's the purpose?
   * APIs
@@ -41,11 +46,9 @@
   * What's the purpose?
   * What's the difference? Why Oracle over Replicator? Why Replicator will continue to exists?
 
-## CouchDB
-  * Why CouchDB?
-  * Why are we happy?
-  * Why are we unhappy?
-  
+## Couchdb-Lucene
+ * What's the purpose?
+ 
 ## AWS
   * Servers
   * CDN storage
