@@ -15,3 +15,11 @@ We will go through below list in order
 - [Ember-Data](https://github.com/ArtooTrills/Onboarding/blob/master/Web/2-Ember/EmberData.md)
 
 Learning Ember.js is like a roller coaster ride, so **Brace Yourself**
+
+####Ember Resouces
+- http://discuss.emberjs.com/
+- https://embercommunity.slack.com/
+- http://stackoverflow.com/questions/tagged/ember.js+ember-cli
+- http://emberjs.com/api/
+- https://github.com/emberjs/
+- https://github.com/ember-cli
